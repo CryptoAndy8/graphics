@@ -1,0 +1,3 @@
+Square 1:1, clean dark backdrop, glossy minimal project cards, Linea vs Plasma.
+exactly 2 logos: Linea, Plasma; no duplicates; no additional logos. crisp vector marks, high contrast, studio lighting.
+Negative prompt: low-res, blurry, extra text, watermarks, third-party brands, busy background, clutter, NSFW.
